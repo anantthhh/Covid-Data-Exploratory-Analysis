@@ -1,1 +1,1 @@
-Exploratory Data Analysis of Covid dataset using SQL
+Exploratory Data Analysis of Covid dataset using MySQL
